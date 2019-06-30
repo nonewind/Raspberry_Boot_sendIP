@@ -20,7 +20,7 @@ def getip():
         ip_1 = s.getsockname()[0]
     finally:
         s.close()
-    desp = "- 公网IP"+str(ip) + "- 局域网IP"+ip_1
+    desp = "- 公网IP"+ip + "- 局域网IP"+ip_1
     print(desp)
     data = {
         'text': '俺上线啦 这是俺的IP 还有局域网IP',
