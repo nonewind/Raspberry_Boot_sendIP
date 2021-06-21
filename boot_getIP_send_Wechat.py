@@ -29,7 +29,7 @@ def getip():
     req = requests.post('https://sc.ftqq.com/YOUR_KRY.send', data=data)
 
 
-getip()
+
 
 if __name__ == "__main__":
-    pass
+    getip()
