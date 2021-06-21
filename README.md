@@ -2,7 +2,7 @@
 
 - 之前因为第一次开机树莓派连接不上遇到了很多问题，不知道是我的问题还是电脑的问题 所幸，看到了大神写了一个Raspberry开机发送自己的IP到mail 所以就突发奇想 我要发送到Wechat上！
 
-- 使用berryconda 基于 py3.6
+- 使用[berryconda](https://github.com/jjhelmus/berryconda) 基于 py3.6
 
 - 利用方糖server酱 进行微信消息推送 具体请查阅[http://sc.ftqq.com/3.version]
 
